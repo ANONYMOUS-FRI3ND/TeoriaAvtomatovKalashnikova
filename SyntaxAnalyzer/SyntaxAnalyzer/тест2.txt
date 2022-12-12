@@ -1,0 +1,16 @@
+program var
+begin
+dim intOne, intTwo int
+dim floatOne float
+dim boolOne bool
+
+
+intOne    =    110d;
+intTwo    =    231d;
+floatOne    =    73.423;
+
+if intTwo    <>    intOne 
+then    output   (floatOne)
+else    input    (intTwo intOne) end_else;
+%      Комментарий      %
+end.

@@ -1,0 +1,21 @@
+program var
+
+dim intOne, intTwo int
+dim floatOne float
+dim boolOne bool
+
+begin
+intOne as 110d;
+intTwo as 231d;
+floatOne as 73.423;
+
+for (intOne NE intTwo) write (intOne);
+if intTwo GT intOne 
+then write (floatOne)
+else read (intTwo)
+
+while do intTwo GT 34d write (intOne or 29d);
+
+{      Комментарий                   }
+
+end.
