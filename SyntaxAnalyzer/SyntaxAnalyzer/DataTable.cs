@@ -23,7 +23,6 @@ namespace SyntaxAnalyzer
                 "while",
                 "do",
                 "begin",
-                "to",
                 "else",
                 "then",
                 "end.",
